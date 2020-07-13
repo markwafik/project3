@@ -1,0 +1,185 @@
+
+header
+{
+    height: 600px;
+    width: 100%;
+    background-image: linear-gradient(to right,	rgba(255, 0, 0,0.7),rgba(128, 0, 255,0.7)) , url("../img/bg-pattern.png");
+    background-repeat: 3000;
+}
+header .T
+{
+    color: orange;
+}
+header .C
+{
+    text-transform: uppercase;
+    color: white;
+    font-size: 13px;
+}
+.content
+{
+    flex-direction: column;
+}
+.content h1
+{
+    color: white;
+}
+.content button
+{
+    border-color: white;
+    background-color: transparent;
+    color: white;
+    font-size: 11px;
+    margin-top: 6%;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.H
+{
+    margin-left: 15%;
+    margin-top: 5%;
+}
+.img  img 
+{
+    height: 400px;
+    padding-left: 80%;
+    
+}
+.first
+{
+    height: 450px;
+    background-color: rgb(255, 153, 0);
+    text-align: center;
+    align-items: center;
+    
+}
+.first h1
+{
+    font-size: 60px;
+}
+.second
+{
+    height: 700px;
+}
+.second .head
+{
+    text-align: center;
+    margin-top: 5%;
+}
+.second .head p
+{
+    color: gray;
+}
+.image
+{
+    width: 30%;
+}
+.image img
+{
+    width: 95%;
+    height: 500px;
+}
+.box
+{
+    width: 70%;
+    margin-right: 10%;
+}
+.box .A
+{
+    text-align: center;
+}
+.box .A img
+{
+    width:25%;
+    margin-top: 10%;
+}
+.box .A h1
+{
+    font-size:19px ;
+    padding-top: 5px;
+}
+.box .A p
+{
+    color: gray;
+    text-align: center;
+    font-size: 15px;
+}
+.box .B
+{
+    text-align:center;
+    
+}
+.box .B img
+{
+    width:25%;
+    margin-top: 10%;
+}
+.box .B h1
+{
+    font-size: 19px;
+    padding-top: 5px;
+}
+.box .B p
+{
+    color:gray;
+    text-align: center;
+    font-size: 15px;
+}
+.third
+{
+    margin-top: 4%;
+}
+.pic
+{
+    height: 500px;
+    width: 100%;
+    background-image:linear-gradient(to right,rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url("../img/bg-cta.jpg");
+    background-size: 100% 100%;
+    align-items: center;
+
+}
+.pic button
+{
+    border-color: white;
+    background-color: transparent;
+    color: white;
+    font-size: 11px;
+    margin-top: 2%;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.pic h1
+{
+    color: white;
+    font-size: 50px;
+}
+.BF 
+{
+    background-color: orange;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+}
+footer
+{
+    background-color: black;
+    color: gray;
+    width: 100%;
+    height: 70px;
+    align-items: center;
+    justify-content: center;
+}
+footer h4
+{
+    font-size: 15px;
+}
+footer p
+{
+    font-size: 11px;
+    text-align: center;
+}
+
+
+
+
